@@ -39,7 +39,7 @@ Más información sobre poetry: https://python-poetry.org/docs/#installation
 ## Preparar los datos
 
 - Descargar el reporte de epiweb
-- Mover el reporte a la carpeta epi_sigsa, junto al main.py
+- Mover el reporte a la carpeta epi_sigsa, junto al README.py
 - Eliminar los registros que no correspondan al puesto o las fechas que se van a ingresar
 
 ## Correr el proyecto
